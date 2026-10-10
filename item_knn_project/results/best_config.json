@@ -1,0 +1,30 @@
+{
+  "best_metric": "ndcg@10",
+  "best_config": {
+    "similarity": "cosine",
+    "k_neighbors": 20,
+    "shrinkage_lambda": 0.0,
+    "rmse": 0.8928,
+    "mae": 0.6648,
+    "ndcg@10": 0.0772,
+    "recall@10": 0.0919,
+    "precision@10": 0.0468,
+    "map@10": 0.0396,
+    "fit_time_s": 38.5,
+    "peak_ram_mb": 1468.0
+  },
+  "best_rmse_config": {
+    "similarity": "pearson",
+    "k_neighbors": 100,
+    "shrinkage_lambda": 50.0,
+    "rmse": 0.8404,
+    "mae": 0.6263,
+    "ndcg@10": 0.0628,
+    "recall@10": 0.0754,
+    "precision@10": 0.037,
+    "map@10": 0.0316,
+    "fit_time_s": 45.8,
+    "peak_ram_mb": 1531.0
+  },
+  "note": "NOTE: Best NDCG and best RMSE configs differ -- using best NDCG for final run."
+}

@@ -1,0 +1,37 @@
+
+============================================================
+  User 0 -- Top-5 rated movies (train)
+============================================================
+  * 5.0  Lost in Translation (2003)  [Comedy|Drama|Romance]
+  * 5.0  Requiem for a Dream (2000)  [Drama]
+  * 5.0  Three Colors: Blue (Trois couleurs: Bleu) (1993)  [Drama]
+  * 5.0  Seventh Seal, The (Sjunde inseglet, Det) (1957)  [Drama]
+  * 5.0  Dolce Vita, La (1960)  [Drama]
+
+  Top-10 recommendations:
+  Rank    Score  Title  [Genres]
+  -------------------------------------------------------
+  1      11.537  Lord of the Rings: The Return of the King, The (2003)  [Action|Adventure|Drama|Fantasy]
+  2      11.398  Matrix, The (1999)  [Action|Sci-Fi|Thriller]
+  3      10.772  Shame (Skammen) (1968)  [Drama|War]
+  4       9.995  Beautiful Mind, A (2001)  [Drama|Romance]
+  5       9.772  Fight Club (1999)  [Action|Crime|Drama|Thriller]
+  6       8.872  400 Blows, The (Les quatre cents coups) (1959)  [Crime|Drama]
+  7       8.409  Men in Black (a.k.a. MIB) (1997)  [Action|Comedy|Sci-Fi]
+  8       8.292  Trainspotting (1996)  [Comedy|Crime|Drama]
+  9       8.231  Minority Report (2002)  [Action|Crime|Mystery|Sci-Fi|Thriller]
+  10      7.850  Lord of the Rings: The Fellowship of the Ring, The (2001)  [Adventure|Fantasy]
+
+============================================================
+  Movies similar to: Toy Story (1995)  [Adventure|Animation|Children|Comedy|Fantasy]
+============================================================
+  1     sim=0.5161  Independence Day (a.k.a. ID4) (1996)  [Action|Adventure|Sci-Fi|Thriller]
+  2     sim=0.5068  Forrest Gump (1994)  [Comedy|Drama|Romance|War]
+  3     sim=0.4929  Aladdin (1992)  [Adventure|Animation|Children|Comedy|Musical]
+  4     sim=0.4747  Star Wars: Episode V - The Empire Strikes Back (1980)  [Action|Adventure|Sci-Fi]
+  5     sim=0.4663  Matrix, The (1999)  [Action|Sci-Fi|Thriller]
+  6     sim=0.4627  Willy Wonka & the Chocolate Factory (1971)  [Children|Comedy|Fantasy|Musical]
+  7     sim=0.4624  Monsters, Inc. (2001)  [Adventure|Animation|Children|Comedy|Fantasy]
+  8     sim=0.4604  Pulp Fiction (1994)  [Comedy|Crime|Drama|Thriller]
+  9     sim=0.4481  Terminator 2: Judgment Day (1991)  [Action|Sci-Fi]
+  10    sim=0.4416  E.T. the Extra-Terrestrial (1982)  [Children|Drama|Sci-Fi]

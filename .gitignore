@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Testing & Linting
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Raw dataset and processed binary cache
+ml-25m/
+data/
+cache/
+*.parquet
+*.npz
+*.pkl
+
+# Model binaries & Large results
+item_knn_project/results/model/
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
